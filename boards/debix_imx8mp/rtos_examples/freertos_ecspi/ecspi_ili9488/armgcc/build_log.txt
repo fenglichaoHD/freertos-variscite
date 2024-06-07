@@ -1,0 +1,48 @@
+[ 41%] Built target lvgl
+[ 55%] Built target lvgl_demos
+Scanning dependencies of target freertos_ecspi_ili9488.elf
+[ 92%] Built target lvgl_examples
+[ 92%] Building C object CMakeFiles/freertos_ecspi_ili9488.elf.dir/home/feng/linux/nxp/imx8mp/imx-mcuxpresso/boards/debix_imx8mp/rtos_examples/freertos_ecspi/ecspi_ili9488/freertos_ecspi_ili9488.c.obj
+[ 92%] Building C object CMakeFiles/freertos_ecspi_ili9488.elf.dir/home/feng/linux/nxp/imx8mp/imx-mcuxpresso/boards/debix_imx8mp/rtos_examples/freertos_ecspi/ecspi_ili9488/ft6336u.c.obj
+[ 92%] Building C object CMakeFiles/freertos_ecspi_ili9488.elf.dir/home/feng/linux/nxp/imx8mp/imx-mcuxpresso/boards/debix_imx8mp/rtos_examples/freertos_ecspi/ecspi_ili9488/ili9488.c.obj
+[ 93%] Building C object CMakeFiles/freertos_ecspi_ili9488.elf.dir/home/feng/linux/nxp/imx8mp/imx-mcuxpresso/boards/debix_imx8mp/rtos_examples/freertos_ecspi/ecspi_ili9488/board.c.obj
+[ 93%] Building C object CMakeFiles/freertos_ecspi_ili9488.elf.dir/home/feng/linux/nxp/imx8mp/imx-mcuxpresso/boards/debix_imx8mp/rtos_examples/freertos_ecspi/ecspi_ili9488/pin_mux.c.obj
+[ 93%] Building C object CMakeFiles/freertos_ecspi_ili9488.elf.dir/home/feng/linux/nxp/imx8mp/imx-mcuxpresso/boards/debix_imx8mp/rtos_examples/freertos_ecspi/ecspi_ili9488/empty_rsc_table.c.obj
+[ 93%] Building C object CMakeFiles/freertos_ecspi_ili9488.elf.dir/home/feng/linux/nxp/imx8mp/imx-mcuxpresso/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+[ 93%] Building C object CMakeFiles/freertos_ecspi_ili9488.elf.dir/home/feng/linux/nxp/imx8mp/imx-mcuxpresso/boards/debix_imx8mp/rtos_examples/freertos_ecspi/ecspi_ili9488/clock_config.c.obj
+[ 93%] Building C object CMakeFiles/freertos_ecspi_ili9488.elf.dir/home/feng/linux/nxp/imx8mp/imx-mcuxpresso/devices/MIMX8ML8/drivers/fsl_common.c.obj
+[ 94%] Building C object CMakeFiles/freertos_ecspi_ili9488.elf.dir/home/feng/linux/nxp/imx8mp/imx-mcuxpresso/devices/MIMX8ML8/drivers/fsl_i2c.c.obj
+[ 94%] Building C object CMakeFiles/freertos_ecspi_ili9488.elf.dir/home/feng/linux/nxp/imx8mp/imx-mcuxpresso/devices/MIMX8ML8/drivers/fsl_common_arm.c.obj
+[ 94%] Building C object CMakeFiles/freertos_ecspi_ili9488.elf.dir/home/feng/linux/nxp/imx8mp/imx-mcuxpresso/devices/MIMX8ML8/drivers/fsl_gpio.c.obj
+[ 94%] Building C object CMakeFiles/freertos_ecspi_ili9488.elf.dir/home/feng/linux/nxp/imx8mp/imx-mcuxpresso/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+[ 95%] Building C object CMakeFiles/freertos_ecspi_ili9488.elf.dir/home/feng/linux/nxp/imx8mp/imx-mcuxpresso/devices/MIMX8ML8/drivers/fsl_ecspi_freertos.c.obj
+[ 95%] Building C object CMakeFiles/freertos_ecspi_ili9488.elf.dir/home/feng/linux/nxp/imx8mp/imx-mcuxpresso/rtos/freertos/freertos-kernel/event_groups.c.obj
+[ 95%] Building C object CMakeFiles/freertos_ecspi_ili9488.elf.dir/home/feng/linux/nxp/imx8mp/imx-mcuxpresso/rtos/freertos/freertos-kernel/croutine.c.obj
+[ 95%] Building C object CMakeFiles/freertos_ecspi_ili9488.elf.dir/home/feng/linux/nxp/imx8mp/imx-mcuxpresso/rtos/freertos/freertos-kernel/list.c.obj
+[ 95%] Building C object CMakeFiles/freertos_ecspi_ili9488.elf.dir/home/feng/linux/nxp/imx8mp/imx-mcuxpresso/rtos/freertos/freertos-kernel/portable/GCC/ARM_CM4F/port.c.obj
+[ 95%] Building C object CMakeFiles/freertos_ecspi_ili9488.elf.dir/home/feng/linux/nxp/imx8mp/imx-mcuxpresso/rtos/freertos/freertos-kernel/stream_buffer.c.obj
+[ 95%] Building C object CMakeFiles/freertos_ecspi_ili9488.elf.dir/home/feng/linux/nxp/imx8mp/imx-mcuxpresso/rtos/freertos/freertos-kernel/timers.c.obj
+[ 96%] Building C object CMakeFiles/freertos_ecspi_ili9488.elf.dir/home/feng/linux/nxp/imx8mp/imx-mcuxpresso/rtos/freertos/freertos-kernel/queue.c.obj
+[ 96%] Building C object CMakeFiles/freertos_ecspi_ili9488.elf.dir/home/feng/linux/nxp/imx8mp/imx-mcuxpresso/rtos/freertos/freertos-kernel/tasks.c.obj
+[ 96%] Building C object CMakeFiles/freertos_ecspi_ili9488.elf.dir/home/feng/linux/nxp/imx8mp/imx-mcuxpresso/rtos/freertos/freertos-kernel/portable/MemMang/heap_4.c.obj
+[ 97%] Building C object CMakeFiles/freertos_ecspi_ili9488.elf.dir/home/feng/linux/nxp/imx8mp/imx-mcuxpresso/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+[ 97%] Building C object CMakeFiles/freertos_ecspi_ili9488.elf.dir/home/feng/linux/nxp/imx8mp/imx-mcuxpresso/devices/MIMX8ML8/utilities/str/fsl_str.c.obj
+[ 97%] Building C object CMakeFiles/freertos_ecspi_ili9488.elf.dir/home/feng/linux/nxp/imx8mp/imx-mcuxpresso/devices/MIMX8ML8/drivers/fsl_audiomix.c.obj
+[ 97%] Building C object CMakeFiles/freertos_ecspi_ili9488.elf.dir/home/feng/linux/nxp/imx8mp/imx-mcuxpresso/devices/MIMX8ML8/utilities/debug_console/fsl_debug_console.c.obj
+[ 98%] Building C object CMakeFiles/freertos_ecspi_ili9488.elf.dir/home/feng/linux/nxp/imx8mp/imx-mcuxpresso/components/serial_manager/fsl_component_serial_manager.c.obj
+[ 98%] Building C object CMakeFiles/freertos_ecspi_ili9488.elf.dir/home/feng/linux/nxp/imx8mp/imx-mcuxpresso/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+[ 98%] Building C object CMakeFiles/freertos_ecspi_ili9488.elf.dir/home/feng/linux/nxp/imx8mp/imx-mcuxpresso/components/uart/fsl_adapter_iuart.c.obj
+[ 98%] Building C object CMakeFiles/freertos_ecspi_ili9488.elf.dir/home/feng/linux/nxp/imx8mp/imx-mcuxpresso/components/serial_manager/fsl_component_serial_port_uart.c.obj
+[ 98%] Building C object CMakeFiles/freertos_ecspi_ili9488.elf.dir/home/feng/linux/nxp/imx8mp/imx-mcuxpresso/components/lists/fsl_component_generic_list.c.obj
+[ 99%] Building ASM object CMakeFiles/freertos_ecspi_ili9488.elf.dir/home/feng/linux/nxp/imx8mp/imx-mcuxpresso/devices/MIMX8ML8/gcc/startup_MIMX8ML8_cm7.S.obj
+[ 99%] Building C object CMakeFiles/freertos_ecspi_ili9488.elf.dir/home/feng/linux/nxp/imx8mp/imx-mcuxpresso/devices/MIMX8ML8/system_MIMX8ML8_cm7.c.obj
+[ 99%] Building C object CMakeFiles/freertos_ecspi_ili9488.elf.dir/home/feng/linux/nxp/imx8mp/imx-mcuxpresso/devices/MIMX8ML8/utilities/fsl_assert.c.obj
+[ 99%] Building C object CMakeFiles/freertos_ecspi_ili9488.elf.dir/home/feng/linux/nxp/imx8mp/imx-mcuxpresso/devices/MIMX8ML8/utilities/fsl_sbrk.c.obj
+[ 99%] Building ASM object CMakeFiles/freertos_ecspi_ili9488.elf.dir/home/feng/linux/nxp/imx8mp/imx-mcuxpresso/devices/MIMX8ML8/utilities/fsl_memcpy.S.obj
+[100%] Linking C executable ddr_release/freertos_ecspi_ili9488.elf
+Memory region         Used Size  Region Size  %age Used
+    m_interrupts:         680 B         1 KB     66.41%
+          m_text:      184232 B      2047 KB      8.79%
+          m_data:      188112 B         2 MB      8.97%
+         m_data2:          0 GB        12 MB      0.00%
+[100%] Built target freertos_ecspi_ili9488.elf

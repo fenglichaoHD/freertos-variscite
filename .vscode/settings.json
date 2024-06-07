@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "/home/feng/linux/nxp/imx8mp/imx-mcuxpresso/CMSIS/DSP/Source/BasicMathFunctions",
+    "files.associations": {
+        "freertos_ecspi_ili9488.h": "c"
+    }
+}
